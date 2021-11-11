@@ -34,6 +34,4 @@
 - Auto save of work
 - Download the file Readme.md file
 
-### Show your support
-
 
